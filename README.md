@@ -1,2 +1,4 @@
 # FileConfigurationSample
 FileConfigurationでconfig.yml以外のYAMLファイルを扱うサンプル
+
+ただし正しいコードかは知らん。手抜き。
